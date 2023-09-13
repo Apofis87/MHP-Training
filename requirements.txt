@@ -1,5 +1,4 @@
 pyproj
-math
 pandas
 matplotlib
 contextily
